@@ -1,0 +1,200 @@
+## MCQ 1
+**Question:** What is the core mathematical operation used in Convolutional Neural Networks (CNNs)?
+A) Exponentiation
+B) Logarithm
+C) Convolution
+D) Differentiation
+**Correct Answer:** C) Convolution
+
+## MCQ 2
+**Question:** What type of data are CNNs specifically designed to process?
+A) Unstructured text data
+B) Tabular data
+C) Structured grid data
+D) Time-series data
+**Correct Answer:** C) Structured grid data
+
+## MCQ 3
+**Question:** What is a kernel in the context of CNNs?
+A) A type of activation function
+B) A small matrix of weights used for feature extraction
+C) A method for reducing spatial dimensions
+D) An optimization algorithm 
+**Correct Answer:** B) A small matrix of weights used for feature extraction
+
+## MCQ 4
+**Question:** What does ReLU stand for in the context of activation functions?
+A) Rectified Linear Unit
+B) Randomized Learning Utility
+C) Recurrent Layer Update
+D) Regularized Loss Unit
+**Correct Answer:** A) Rectified Linear Unit
+
+## MCQ 5
+**Question:** What is the purpose of pooling layers in CNNs?
+A) To increase the spatial dimensions of feature maps
+B) To perform convolutions with larger kernels
+C) To introduce non-linearity into the network
+D) To reduce the spatial dimensions of feature maps
+**Correct Answer:** D) To reduce the spatial dimensions of feature maps
+
+## MCQ 6
+**Question:** Which pooling method selects the maximum value from each patch of the feature map?
+A) Average pooling
+B) Min pooling
+C) Max pooling
+D) Global pooling
+**Correct Answer:** C) Max pooling
+
+## MCQ 7
+**Question:** What is the purpose of padding in convolutional layers?
+A) To normalize pixel values
+B) To control the spatial dimensions of the output feature map
+C) To reduce the number of parameters
+D) To prevent overfitting
+**Correct Answer:** B) To control the spatial dimensions of the output feature map
+
+## MCQ 8
+**Question:** What type of layers are typically found after convolutional and pooling layers in a CNN?
+A) Recurrent layers
+B) Convolutional layers
+C) Pooling layers
+D) Fully connected layers
+**Correct Answer:** D) Fully connected layers
+
+## MCQ 9
+**Question:** Which activation function is commonly used in the output layer of a CNN for multi-class classification?
+A) ReLU
+B) Sigmoid
+C) Tanh
+D) Softmax
+**Correct Answer:** D) Softmax
+
+## MCQ 10
+**Question:** What is the purpose of backpropagation in training CNNs?
+A) To generate new training data
+B) To adjust weights and biases based on the error gradient
+C) To evaluate the model's performance
+D) To reduce the spatial dimensions of feature maps
+**Correct Answer:** B) To adjust weights and biases based on the error gradient
+
+## MCQ 11
+**Question:** What is data augmentation used for in CNN training?
+A) To reduce the size of the training dataset
+B) To increase the size and diversity of the training dataset
+C) To normalize pixel values
+D) To visualize feature maps
+**Correct Answer:** B) To increase the size and diversity of the training dataset
+
+## MCQ 12
+**Question:** Which of the following is NOT a common application of CNNs?
+A) Image classification
+B) Natural language processing
+C) Object detection
+D) Image segmentation
+**Correct Answer:** B) Natural language processing
+
+## MCQ 13
+**Question:** What does "stride" refer to in a convolution operation?
+A) The size of the kernel
+B) The step size with which the kernel moves across the input
+C) The type of padding used
+D) The activation function applied
+**Correct Answer:** B) The step size with which the kernel moves across the input
+
+## MCQ 14
+**Question:** Which type of pooling reduces each feature map to a single value?
+A) Max pooling
+B) Average pooling
+C) Global pooling
+D) Local pooling
+**Correct Answer:** C) Global pooling
+
+## MCQ 15
+**Question:** What is the purpose of a loss function in CNN training?
+A) To measure the accuracy of the model
+B) To generate input data
+C) To visualize feature maps
+D) To measure the difference between predicted and actual outputs
+**Correct Answer:** D) To measure the difference between predicted and actual outputs
+
+## MCQ 16
+**Question:** What does CNN stand for?
+A) Complex Neural Network
+B) Convolutional Neural Network
+C) Centralized Neural Network
+D) Comparative Neural Network
+**Correct Answer:** B) Convolutional Neural Network
+
+## MCQ 17
+**Question:** What is the primary function of a convolutional layer in a CNN?
+A) To reduce the dimensionality of the input data
+B) To extract features from the input data
+C) To classify the input data
+D) To optimize the network's parameters
+**Correct Answer:** B) To extract features from the input data 
+
+## MCQ 18
+**Question:** What is the role of an activation function like ReLU in a CNN?
+A) To perform the convolution operation
+B) To reduce the spatial dimensions of feature maps
+C) To introduce non-linearity into the network
+D) To calculate the loss function
+**Correct Answer:** C) To introduce non-linearity into the network
+
+## MCQ 19
+**Question:** What is the main advantage of using pooling layers in a CNN?
+A) To increase the number of parameters in the network
+B) To make the model more sensitive to small translations in the input
+C) To reduce the computational complexity and prevent overfitting
+D) To perform the classification task
+**Correct Answer:** C) To reduce the computational complexity and prevent overfitting
+
+## MCQ 20
+**Question:** What does "flattening" refer to in the context of CNNs?
+A) Applying a smoothing filter to the input image
+B) Reducing the number of layers in the network
+C) Converting multi-dimensional feature maps into a one-dimensional vector
+D) Normalizing the pixel values in the input image
+**Correct Answer:** C) Converting multi-dimensional feature maps into a one-dimensional vector
+
+## MCQ 21
+**Question:** In a CNN, what does the term "feature map" refer to?
+A) The input image after applying a convolution operation
+B) The output of a pooling layer
+C) The set of weights in a convolutional filter
+D) The final classification output of the network
+**Correct Answer:** A) The input image after applying a convolution operation
+
+## MCQ 22
+**Question:** What is the purpose of using a validation set during CNN training?
+A) To train the initial weights of the network
+B) To fine-tune hyperparameters and prevent overfitting
+C) To evaluate the final performance of the trained model
+D) To generate new training data
+**Correct Answer:** B) To fine-tune hyperparameters and prevent overfitting
+
+## MCQ 23
+**Question:** What type of learning is employed by CNNs?
+A) Supervised learning
+B) Unsupervised learning
+C) Reinforcement learning
+D) Deep learning
+**Correct Answer:**  A) Supervised learning (CNNs typically require labeled data for training)
+**Note:**  While CNNs are a core component of deep learning, the question asks for the learning type they employ, which is supervised.
+
+## MCQ 24
+**Question:**  What is the function of "epochs" during the training of a CNN?
+A) To determine the size of the convolutional kernels
+B) To control the learning rate of the optimization algorithm
+C) To specify the number of times the entire training dataset is passed through the network
+D) To define the architecture of the convolutional layers
+**Correct Answer:** C) To specify the number of times the entire training dataset is passed through the network
+
+## MCQ 25 
+**Question:** Which of the following is a key difference between "valid" padding and "same" padding in CNNs?
+A) "Valid" padding applies padding to the input, while "same" padding does not.
+B) "Valid" padding ensures the output has the same dimensions as the input, while "same" padding results in a smaller output.
+C) "Valid" padding uses zero-padding, while "same" padding uses mirrored padding.
+D) "Valid" padding results in a smaller output, while "same" padding ensures the output has the same dimensions as the input.
+**Correct Answer:**  D) "Valid" padding results in a smaller output, while "same" padding ensures the output has the same dimensions as the input.

@@ -1,0 +1,79 @@
+## MCQ 1
+**Question:** What is the primary function of photovoltaic cells in solar panels?
+A) To store electricity for later use.
+B) To convert sunlight into electricity. 
+C) To regulate the flow of electricity.
+D) To reduce the cost of electricity.
+**Correct Answer:** B
+
+## MCQ 2
+**Question:** Which of the following is NOT mentioned as an advantage of solar energy?
+A) Renewable source 
+B) Low maintenance
+C) Increased home security 
+D) Cost-effective in the long run
+**Correct Answer:** C
+
+## MCQ 3
+**Question:** What is one of the main challenges associated with solar energy?
+A) High installation costs
+B)  Limited availability of sunlight 
+C)  Noise pollution from solar panels
+D)  Depletion of natural resources 
+**Correct Answer:** A
+
+## MCQ 4
+**Question:**  How do solar-powered chargers provide a practical solution for certain situations?
+A) They generate their own Wi-Fi signal.
+B) They can charge devices without access to traditional electricity.
+C) They are waterproof and can be used underwater.
+D) They can power small appliances like refrigerators. 
+**Correct Answer:** B
+
+## MCQ 5
+**Question:** What makes solar water purifiers particularly beneficial in specific locations?
+A) They can desalinate seawater.
+B) They can generate hot water for showers. 
+C) They provide safe drinking water in areas with limited clean water access. 
+D) They can be used to irrigate crops in arid regions.
+**Correct Answer:** C
+
+## MCQ 6
+**Question:** According to the text, what was the approximate global capacity of installed solar photovoltaic (PV) capacity in 2020?
+A) 770 megawatts
+B) 770 gigawatts 
+C) 770 terawatts
+D) 770 petawatts 
+**Correct Answer:** B
+
+## MCQ 7
+**Question:**  How has the levelized cost of electricity (LCOE) from utility-scale solar PV projects changed since 2010?
+A) Increased by over 80%
+B) Decreased by over 80% 
+C) Remained relatively stable
+D) Fluctuated unpredictably 
+**Correct Answer:** B
+
+## MCQ 8
+**Question:**  What is one of the key environmental benefits of solar energy?
+A)  It reduces reliance on fossil fuels.
+B)  It increases biodiversity in surrounding areas. 
+C)  It improves air quality by releasing oxygen.
+D)  It strengthens the ozone layer. 
+**Correct Answer:** A
+
+## MCQ 9
+**Question:** How does solar energy contribute to energy access?
+A) It establishes new fossil fuel power plants. 
+B) It provides electricity in remote and underserved areas.
+C) It reduces the need for energy conservation.
+D) It centralizes energy production in urban centers.
+**Correct Answer:** B
+
+## MCQ 10 
+**Question:** According to the text, what is driving increased residential adoption of solar energy?
+A) Government mandates requiring solar panel installations.
+B) Rising costs of traditional electricity sources. 
+C)  A growing trend of homeowners wanting to live off-grid.
+D) Increased availability of solar panel installation professionals. 
+**Correct Answer:** B

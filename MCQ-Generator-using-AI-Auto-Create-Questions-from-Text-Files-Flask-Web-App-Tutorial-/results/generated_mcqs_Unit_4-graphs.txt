@@ -1,0 +1,239 @@
+## MCQ 1
+**Question:** What is a graph in the context of data structures?
+A) A visual representation of data trends.
+B) A data structure that uses keys to organize elements.
+C) A collection of vertices connected by edges. 
+D) A hierarchical data structure with a root node.
+**Correct Answer: C**
+
+## MCQ 2
+**Question:**  What does the notation (v, w) represent in graph terminology?
+A) A vertex labeled 'v'.
+B) An edge connecting vertices 'v' and 'w'. 
+C) The weight of edge 'vw'.
+D) The degree of vertex 'v'.
+**Correct Answer: B**
+
+## MCQ 3
+**Question:** Which of the following is NOT a method of representing a graph?
+A) Adjacency Matrix
+B) Adjacency List
+C) Binary Tree 
+D) None of the above
+**Correct Answer: C**
+
+## MCQ 4
+**Question:**  What is the primary disadvantage of representing a graph using an adjacency matrix?
+A)  It is complex to implement.
+B)  It requires O(n^2) space, making it inefficient for large graphs. 
+C)  It cannot represent weighted graphs.
+D)  It cannot represent directed graphs.
+**Correct Answer: B**
+
+## MCQ 5
+**Question:**  Which graph representation is generally more space-efficient for sparse graphs (graphs with relatively few edges)?
+A)  Adjacency Matrix
+B)  Adjacency List 
+C)  Both are equally efficient
+D)  Neither is suitable for sparse graphs
+**Correct Answer: B**
+
+## MCQ 6
+**Question:**  What characterizes a directed graph (digraph)?
+A) Edges have no direction.
+B) Edges have a specific direction. 
+C)  It cannot contain cycles.
+D)  It must contain cycles.
+**Correct Answer: B**
+
+## MCQ 7
+**Question:** In an undirected graph, if there is an edge from vertex 'A' to vertex 'B', what is always true?
+A) There is also an edge from vertex 'B' to vertex 'A'. 
+B)  Vertex 'A' has a higher degree than vertex 'B'.
+C)  Vertex 'B' has a higher degree than vertex 'A'.
+D)  The graph is a complete graph.
+**Correct Answer: A**
+
+## MCQ 8
+**Question:**  What distinguishes a weighted graph from an unweighted graph?
+A)  Weighted graphs have directions assigned to edges.
+B)  Weighted graphs have values associated with each edge. 
+C)  Weighted graphs cannot contain cycles.
+D)  Weighted graphs must be directed graphs.
+**Correct Answer: B**
+
+## MCQ 9
+**Question:** A complete graph with 'n' vertices will always have how many edges?
+A)  n
+B)  n - 1
+C)  n * (n - 1) / 2 
+D)  n^2
+**Correct Answer: C**
+
+## MCQ 10
+**Question:**  What defines a strongly connected graph?
+A) There is a path between every pair of vertices. 
+B) There are no cycles in the graph.
+C)  All vertices have the same degree.
+D)  The graph is a complete graph.
+**Correct Answer: A**
+
+## MCQ 11
+**Question:** What is the length of a path in a graph?
+A) The number of vertices in the path.
+B) The number of edges in the path. 
+C)  The sum of the weights of the edges in the path.
+D)  The difference between the degrees of the starting and ending vertices.
+**Correct Answer: B**
+
+## MCQ 12
+**Question:**  What is a simple path in a graph?
+A) A path that visits the same vertex multiple times.
+B) A path that visits each vertex only once, except potentially the first and last vertices. 
+C) A path that includes all vertices of the graph.
+D)  A path with only two vertices.
+**Correct Answer: B**
+
+## MCQ 13
+**Question:**  A cycle in a graph is characterized by:
+A)  The starting and ending vertices being the same. 
+B) The path visiting each vertex only once.
+C)  The path having an even number of edges.
+D) The path having an odd number of edges.
+**Correct Answer: A**
+
+## MCQ 14
+**Question:**  What does the degree of a vertex in a graph signify?
+A)  The number of edges incident to that vertex. 
+B)  The length of the longest path starting from that vertex.
+C)  The weight of the edges connected to that vertex.
+D)  The level of the vertex in a hierarchical graph.
+**Correct Answer: A**
+
+## MCQ 15
+**Question:**  What is the key characteristic of an acyclic graph?
+A)  It has no edges.
+B)  It has only one vertex.
+C)  It contains no cycles. 
+D)  It is a complete graph.
+**Correct Answer: C**
+
+## MCQ 16
+**Question:** What is the primary goal of graph traversal algorithms?
+A)  To find the shortest path between two vertices.
+B) To visit all vertices in a graph in a systematic way. 
+C)  To sort the vertices of the graph.
+D)  To determine the degree of each vertex.
+**Correct Answer: B**
+
+## MCQ 17
+**Question:** Which data structure does Breadth First Search (BFS) utilize to manage the order of visited vertices?
+A)  Stack
+B) Queue 
+C)  Linked List
+D)  Binary Tree
+**Correct Answer: B**
+
+## MCQ 18
+**Question:**  Depth First Search (DFS) uses which data structure to keep track of visited vertices?
+A)  Stack 
+B)  Queue
+C)  Linked List
+D)  Binary Tree
+**Correct Answer: A**
+
+## MCQ 19
+**Question:**  What is the primary application of topological sort?
+A) Finding the shortest path in a graph.
+B) Determining the connected components of a graph.
+C)  Ordering vertices in a directed acyclic graph (DAG) based on dependencies. 
+D)  Finding the minimum spanning tree of a graph.
+**Correct Answer: C**
+
+## MCQ 20
+**Question:**  Which of the following is a requirement for a topological sort to be possible on a graph?
+A)  The graph must be undirected.
+B)  The graph must be acyclic. 
+C)  The graph must be complete.
+D)  The graph must be weighted.
+**Correct Answer: B**
+
+## MCQ 21
+**Question:** What is a biconnected graph?
+A)  A graph with exactly two connected components.
+B)  A connected graph that remains connected even after removing any one vertex. 
+C)  A graph that becomes disconnected if any two vertices are removed.
+D)  A graph with no cycles.
+**Correct Answer: B**
+
+## MCQ 22
+**Question:**  What is an articulation point in a connected graph?
+A)  A vertex with the highest degree.
+B)  A vertex whose removal disconnects the graph. 
+C)  A vertex with the lowest degree.
+D)  A vertex that is part of a cycle.
+**Correct Answer: B**
+
+## MCQ 23
+**Question:**  What is an Euler path in a graph?
+A) A path that visits every vertex exactly once.
+B)  A path that traverses every edge exactly once. 
+C)  The shortest path between two vertices.
+D)  A path that forms a cycle.
+**Correct Answer: B**
+
+## MCQ 24
+**Question:**  An Euler circuit is an Euler path with what additional constraint?
+A)  It must start and end at the same vertex. 
+B)  It must visit every vertex at least twice.
+C)  It cannot contain any cycles.
+D)  It must be in a weighted graph.
+**Correct Answer: A**
+
+## MCQ 25
+**Question:**  According to Euler's theorem, if a graph has more than two odd vertices, what is true about Euler paths?
+A) It has at least one Euler path.
+B) It has exactly one Euler path.
+C) It has no Euler path. 
+D)  It has an infinite number of Euler paths.
+**Correct Answer: C**
+
+## MCQ 26
+**Question:** What is a minimum spanning tree (MST) of a graph?
+A)  A tree that connects all vertices with the minimum total edge weight. 
+B)  A tree that includes all edges of the original graph.
+C)  A tree that contains all cycles of the original graph.
+D)  A tree with the maximum possible height.
+**Correct Answer: A**
+
+## MCQ 27
+**Question:**  Which of the following is NOT an algorithm for finding the minimum spanning tree of a graph?
+A)  Prim's algorithm
+B)  Kruskal's algorithm
+C)  Dijkstra's algorithm 
+D)  None of the above
+**Correct Answer: C**
+
+## MCQ 28
+**Question:**  What is the purpose of Dijkstra's algorithm?
+A)  Finding the shortest path between any two vertices in a graph. 
+B)  Determining if a graph is connected or not.
+C)  Finding the minimum spanning tree of a graph.
+D)  Sorting vertices in topological order.
+**Correct Answer: A**
+
+## MCQ 29
+**Question:** What type of graph is a social network typically represented as?
+A) Directed graph 
+B) Undirected graph
+C)  Weighted graph
+D)  Acyclic graph
+**Correct Answer: A**
+
+## MCQ 30
+**Question:** Which of the following is NOT a common application of graph data structures?
+A)  Social networks
+B)  Transportation networks
+C)  Image processing 
+D)  Utility networks
+**Correct Answer: C**
